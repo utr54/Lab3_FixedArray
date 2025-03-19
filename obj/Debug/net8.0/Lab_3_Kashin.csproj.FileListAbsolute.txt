@@ -1,0 +1,14 @@
+C:\Users\utr54\source\repos\Lab_3_Kashin\bin\Debug\net8.0\Lab_3_Kashin.exe
+C:\Users\utr54\source\repos\Lab_3_Kashin\bin\Debug\net8.0\Lab_3_Kashin.deps.json
+C:\Users\utr54\source\repos\Lab_3_Kashin\bin\Debug\net8.0\Lab_3_Kashin.runtimeconfig.json
+C:\Users\utr54\source\repos\Lab_3_Kashin\bin\Debug\net8.0\Lab_3_Kashin.dll
+C:\Users\utr54\source\repos\Lab_3_Kashin\bin\Debug\net8.0\Lab_3_Kashin.pdb
+C:\Users\utr54\source\repos\Lab_3_Kashin\obj\Debug\net8.0\Lab_3_Kashin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utr54\source\repos\Lab_3_Kashin\obj\Debug\net8.0\Lab_3_Kashin.AssemblyInfoInputs.cache
+C:\Users\utr54\source\repos\Lab_3_Kashin\obj\Debug\net8.0\Lab_3_Kashin.AssemblyInfo.cs
+C:\Users\utr54\source\repos\Lab_3_Kashin\obj\Debug\net8.0\Lab_3_Kashin.csproj.CoreCompileInputs.cache
+C:\Users\utr54\source\repos\Lab_3_Kashin\obj\Debug\net8.0\Lab_3_Kashin.dll
+C:\Users\utr54\source\repos\Lab_3_Kashin\obj\Debug\net8.0\refint\Lab_3_Kashin.dll
+C:\Users\utr54\source\repos\Lab_3_Kashin\obj\Debug\net8.0\Lab_3_Kashin.pdb
+C:\Users\utr54\source\repos\Lab_3_Kashin\obj\Debug\net8.0\Lab_3_Kashin.genruntimeconfig.cache
+C:\Users\utr54\source\repos\Lab_3_Kashin\obj\Debug\net8.0\ref\Lab_3_Kashin.dll
